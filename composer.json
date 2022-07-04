@@ -23,6 +23,6 @@
         "source": "https://github.com/cakejob/php-resque-ex-scheduler"
     },
     "require": {
-        "cakejob/php-resque-ex": "^1.0"
+        "cakejob/php-resque-ex": "dev-master"
     }
 }
